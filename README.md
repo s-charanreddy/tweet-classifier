@@ -1,8 +1,3 @@
-<img src="https://user-images.githubusercontent.com/60045850/126037645-ab8f44dd-1060-411e-81ea-80c7e13b79ac.jpeg" alt="DisasterTweets" width="1600" height="450" />
-
-
-[![Dataset](https://img.shields.io/badge/Dataset-Kaggle-blue)](https://www.kaggle.com/c/nlp-getting-started) [![Language](https://img.shields.io/badge/Lang-Python-brightgreen)](https://www.python.org/) [![Library](https://img.shields.io/badge/Library-Nltk%2C%20Tensorflow-orange)](https://stackshare.io/stackups/nltk-vs-tensorflow) [![ML Library](https://img.shields.io/badge/ML-Scikit--learn-yellowgreen)](https://scikit-learn.org/) [![DL Library](https://img.shields.io/badge/DL-Keras-red)](https://keras.io/)
-
 # Project Description
 
 Twitter has become an important communication channel in times of emergency.   
